@@ -1,2 +1,4 @@
-# hello-world
- primeiro-repositorio-versionado
+# Hello World
+ Primeiro Repositório do curso de Git e GitHub
+
+ Repositório criado durante a aula!
